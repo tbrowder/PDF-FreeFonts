@@ -1,0 +1,25 @@
+{
+  "auth": "zef:tbrowder",
+  "authors": [
+    "Tom Browder"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Provides easy access to GNU OpenType Free Fonts and some MICRE fonts",
+  "license": "Artistic-2.0",
+  "name": "PDF::FreeFonts",
+  "perl": "6.d",
+  "provides": {
+    "PDF::FreeFonts": "lib/PDF/FreeFonts.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
