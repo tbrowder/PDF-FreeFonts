@@ -1,3 +1,5 @@
+[![Actions Status](https://github.com/tbrowder/PDF-FreeFonts/actions/workflows/linux.yml/badge.svg)](https://github.com/tbrowder/PDF-FreeFonts/actions) [![Actions Status](https://github.com/tbrowder/PDF-FreeFonts/actions/workflows/macos.yml/badge.svg)](https://github.com/tbrowder/PDF-FreeFonts/actions) [![Actions Status](https://github.com/tbrowder/PDF-FreeFonts/actions/workflows/windows.yml/badge.svg)](https://github.com/tbrowder/PDF-FreeFonts/actions)
+
 NAME
 ====
 
