@@ -3,7 +3,7 @@
 NAME
 ====
 
-**PDF::FreeFonts** - Provides easy access to GNU OpenType Free Fonts and some MICRE fonts
+**PDF::FreeFonts** - Provides easy access to GNU OpenType Free Fonts and some MICR fonts
 
 SYNOPSIS
 ========

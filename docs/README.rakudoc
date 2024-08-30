@@ -2,7 +2,7 @@
 
 =head1 NAME
 
-B<PDF::FreeFonts> - Provides easy access to GNU OpenType Free Fonts and some MICRE fonts
+B<PDF::FreeFonts> - Provides easy access to GNU OpenType Free Fonts and some MICR fonts
 
 =head1 SYNOPSIS
 
